@@ -1,4 +1,4 @@
-# nhanes-health-analysis
+# nhanes-health-analysis-sas-r
 NHANES-based health data analysis using SAS (data merging, descriptive statistics, and cohort filtering)
 
 ************************************************************ 
