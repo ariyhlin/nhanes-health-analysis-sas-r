@@ -4,7 +4,7 @@
 
 This project analyzes health-related outcomes using NHANES data, focusing on demographic characteristics, BMI, blood pressure, and diabetes-related variables. The goal is to demonstrate data cleaning, dataset merging, and descriptive statistical analysis using both SAS and R.
 
----
+
 
 ## 🧾 Data Source
 
@@ -17,7 +17,7 @@ This project analyzes health-related outcomes using NHANES data, focusing on dem
   * Diabetes Questionnaire (DIQ)
   * Triglycerides (TRIGLY)
 
----
+
 
 ## 🧠 Methods
 
@@ -45,7 +45,7 @@ This project analyzes health-related outcomes using NHANES data, focusing on dem
 
   * Frequency and percentages using `PROC FREQ`
 
----
+
 
 ## 📊 Key Results
 
@@ -63,7 +63,7 @@ This project analyzes health-related outcomes using NHANES data, focusing on dem
 * R (data manipulation and summary analysis)
 * Healthcare data analytics concepts
 
----
+
 
 ## 📁 Repository Structure
 
@@ -73,13 +73,13 @@ nhanes-health-analysis-sas-r/
 ├── r/
 ├── summary/
 
----
+
 
 ## ⚠️ Note
 
 This project uses publicly available NHANES data for educational and demonstration purposes only.
 
----
+
 
 ## 👤 Author
 
